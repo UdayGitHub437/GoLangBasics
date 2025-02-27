@@ -24,7 +24,7 @@ func initializeStruct() {
 	}
 	fmt.Print(a)
 	a = animal{
-		name:   "horse",
+		name:   "Horse",
 		colour: "white",
 	}
 	fmt.Println(a)
